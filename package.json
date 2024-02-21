@@ -54,7 +54,7 @@
   },
   "homepage": "https://alibaba.github.io/BizCharts/",
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "dependencies": {
     "@antv/g2": "3.5.19",
